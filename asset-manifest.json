@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/toornament-smart-schedule/static/js/main.9a8290fc.chunk.js",
-    "main.js.map": "/toornament-smart-schedule/static/js/main.9a8290fc.chunk.js.map",
+    "main.js": "/toornament-smart-schedule/static/js/main.a378b4ac.chunk.js",
+    "main.js.map": "/toornament-smart-schedule/static/js/main.a378b4ac.chunk.js.map",
     "runtime-main.js": "/toornament-smart-schedule/static/js/runtime-main.12d142a4.js",
     "runtime-main.js.map": "/toornament-smart-schedule/static/js/runtime-main.12d142a4.js.map",
-    "static/js/2.a04c12aa.chunk.js": "/toornament-smart-schedule/static/js/2.a04c12aa.chunk.js",
-    "static/js/2.a04c12aa.chunk.js.map": "/toornament-smart-schedule/static/js/2.a04c12aa.chunk.js.map",
+    "static/js/2.a46d587e.chunk.js": "/toornament-smart-schedule/static/js/2.a46d587e.chunk.js",
+    "static/js/2.a46d587e.chunk.js.map": "/toornament-smart-schedule/static/js/2.a46d587e.chunk.js.map",
     "index.html": "/toornament-smart-schedule/index.html",
-    "precache-manifest.97d0cf9872fd75074991886a49495bf1.js": "/toornament-smart-schedule/precache-manifest.97d0cf9872fd75074991886a49495bf1.js",
+    "precache-manifest.d473ed1f47db004f91314ce467a11683.js": "/toornament-smart-schedule/precache-manifest.d473ed1f47db004f91314ce467a11683.js",
     "service-worker.js": "/toornament-smart-schedule/service-worker.js"
   }
 }
