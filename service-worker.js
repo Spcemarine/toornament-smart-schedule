@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/toornament-smart-schedule/precache-manifest.d473ed1f47db004f91314ce467a11683.js"
+  "/toornament-smart-schedule/precache-manifest.2a18a681b1a1a93a315a3b7ffe81fea5.js"
 );
 
 self.addEventListener('message', (event) => {
