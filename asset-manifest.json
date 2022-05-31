@@ -1,19 +1,10 @@
 {
   "files": {
-    "main.js": "/toornament-smart-schedule/static/js/main.1095e6bd.chunk.js",
-    "main.js.map": "/toornament-smart-schedule/static/js/main.1095e6bd.chunk.js.map",
-    "runtime-main.js": "/toornament-smart-schedule/static/js/runtime-main.a8f7c7fe.js",
-    "runtime-main.js.map": "/toornament-smart-schedule/static/js/runtime-main.a8f7c7fe.js.map",
-    "static/js/2.966cd0aa.chunk.js": "/toornament-smart-schedule/static/js/2.966cd0aa.chunk.js",
-    "static/js/2.966cd0aa.chunk.js.map": "/toornament-smart-schedule/static/js/2.966cd0aa.chunk.js.map",
+    "main.js": "/toornament-smart-schedule/static/js/main.7d5c9136.js",
     "index.html": "/toornament-smart-schedule/index.html",
-    "precache-manifest.78990ea017d7f0da468b74ca8297d575.js": "/toornament-smart-schedule/precache-manifest.78990ea017d7f0da468b74ca8297d575.js",
-    "service-worker.js": "/toornament-smart-schedule/service-worker.js",
-    "static/js/2.966cd0aa.chunk.js.LICENSE.txt": "/toornament-smart-schedule/static/js/2.966cd0aa.chunk.js.LICENSE.txt"
+    "main.7d5c9136.js.map": "/toornament-smart-schedule/static/js/main.7d5c9136.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8f7c7fe.js",
-    "static/js/2.966cd0aa.chunk.js",
-    "static/js/main.1095e6bd.chunk.js"
+    "static/js/main.7d5c9136.js"
   ]
 }
