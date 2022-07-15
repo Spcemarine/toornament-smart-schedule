@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/toornament-smart-schedule/static/js/main.a5a0563a.js",
+    "main.js": "/toornament-smart-schedule/static/js/main.c9d7d856.js",
     "index.html": "/toornament-smart-schedule/index.html",
-    "main.a5a0563a.js.map": "/toornament-smart-schedule/static/js/main.a5a0563a.js.map"
+    "main.c9d7d856.js.map": "/toornament-smart-schedule/static/js/main.c9d7d856.js.map"
   },
   "entrypoints": [
-    "static/js/main.a5a0563a.js"
+    "static/js/main.c9d7d856.js"
   ]
 }
